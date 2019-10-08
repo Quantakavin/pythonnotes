@@ -1,0 +1,15 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+.signup2 {
+  margin-top:120px;
+}
+
+.navbar-nav {
+  color: white !important;
+}
+
+.navbar-default {
+    background-color: #20B2AA !important;
+    color: white;
+}
